@@ -30,7 +30,10 @@ $ python3 -m BanAllBot
  
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3><p align="center"><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FIamuput%2FBan-All-Bot&template=https%3A%2F%2Fgithub.com%2FIamuput%2FBan-All-Bot" width="200" height="35.45"/></a></p>
+    
+<h3 align="center">Click The Button</h3>
+<a href="https://heroku.com/deploy?template=https://github.com/iamuput/Ban-All-Bot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+</div>
 
 
 ━━━━━━━━━━━━━━━━━━━━
