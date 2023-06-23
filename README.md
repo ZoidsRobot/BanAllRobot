@@ -8,8 +8,6 @@
 <h2 align="center">
     ──「 BAN-ALL BOT 」──
 </h2>
-
-
 <h1 align="center"><b> BAN-ALL BOT❗️</b></h1> 
 
 
