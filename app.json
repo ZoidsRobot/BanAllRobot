@@ -8,7 +8,7 @@
          "Group",
          "Telegram"         
       ],   
-   "repository": "https://github.com/TonyStark-21/Ban-All-Bot",
+   "repository": "https://github.com/iamuput/Ban-All-Bot",
    "stack": "heroku-20",
    "addons": [
       {
@@ -37,12 +37,12 @@
       "BOT_ID": {
          "description": "your bot id",
          "required": true,
-         "value": "-1001868905939"
+         "value": "500000"
       },  
       "BOT_USERNAME": {
          "description": "your bot username without @",
          "required": true,
-         "value": "StarkIndustry_21"
+         "value": "USERNAME"
       },  
        "BOT_NAME": {
          "description": "Your bot's name",
@@ -52,13 +52,8 @@
       "SUDO": {
          "description": "list of Auth user Id who can command the bot ",
          "required": true,
-         "value": "5556308886 5264285143"
+         "value": "1860375797"
       }, 
-      "START_IMG": {
-         "description": "give the telegraph link of your network logo.",
-         "required": true,
-         "value": "https://telegra.ph/file/05ae09ae8d5e2f975c3c3.jpg"
-      },     
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
          "value": "ANYTHING"
