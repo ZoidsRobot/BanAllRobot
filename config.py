@@ -1,6 +1,6 @@
 import os
 class Config:
-    API_ID=1619182628
+    API_ID=
     API_HASH="ksjs"
     TOKEN="jaksks"
     SUDO = list(int(i) for i in os.environ.get("SUDO", "5264285143").split(" "))
